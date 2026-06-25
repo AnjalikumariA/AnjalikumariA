@@ -5,7 +5,7 @@
 I'm passionate about building scalable infrastructure, mastering cloud platforms, and automating workflows. 
 
 ### 🚀 About Me
-- 🎓 i have being completed Bachelor of Computer Applications (BCA).
+- 🎓 Passout Bachelor of Computer Applications (BCA).
 - ☁️ Actively studying **AWS**, **Google Cloud**, and advanced **Git/GitHub** workflows.
 - 💻 Building projects that bridge the gap between development and operations.
 - 📚 Currently focused on continuous self-improvement and financial literacy (listening to *Atomic Habits* & *Rich Dad Poor Dad*).
